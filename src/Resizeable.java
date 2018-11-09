@@ -1,3 +1,3 @@
-public interface iResizeable {
+public interface Resizeable {
     void resize(double percent);
 }

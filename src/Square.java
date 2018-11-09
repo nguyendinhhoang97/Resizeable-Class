@@ -1,4 +1,4 @@
-public class Square extends Rectangle implements iResizeable{
+public class Square extends Rectangle implements Resizeable{
     public Square() {
     }
 
